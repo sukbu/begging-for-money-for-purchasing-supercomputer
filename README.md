@@ -1,7 +1,17 @@
 # begging-for-money-for-purchasing-supercomputer
 A begging video
 
-Depositer(s) will be remembered forever. and recorded. Currently preparing something in progress, despite the progress is too slow like a snail.
+<video controls>
+  <source src="begging-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## 💸 QR Codes for Donation
+### Wise Transfer | Binance | PayPal
+![Wise Transfer](wise-qr.png) | ![Binance](binance-qr.png) | ![PayPal](paypal-qr.png)
+
+
+Depositer(s) will be remembered forever, and recorded. Currently preparing something in progress, despite the progress is too slow like a snail (and you can see the snail at the bottomest area of this page).
 
 [Reason? why?]
 (0) My workstation is too old. It served me already more than 7 years, and reached to its limitation that the tasks I'm currently doing are too heavy for this. So I want to retire this workstation, and maybe let it be in peace with lighter workload, maybe um .. it seems enterprise grade required.
@@ -9,3 +19,4 @@ Depositer(s) will be remembered forever. and recorded. Currently preparing somet
 (2) and um .. maybe if the depositors contribution is well enough maybe ... going to buy another necessary appliances as well as feeding my cat(s).
 (3) Due to some reason I cannot reveal all the things but gradually I want to share the things what I was/am doing with the depositors, if they are willing to, and I also understand there is possibility that depositors may not want to reveal themselves, or sometimes don't even want to know what I am doing, so then .. um .. maybe need to make a form related to PI, or .. um .. 
 
+![snail](핑핑이0.webp) ![snail]핑핑이1.webp)
