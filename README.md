@@ -3,7 +3,7 @@ A begging video
 
 ## 📹 Begging Video
 <p align="center">
-  <video src="https://github.com/sukbu/begging-for-money-for-purchasing-supercomputer/raw/main/SOS.mp4" controls width="600"></video>
+  <video src="SOS.mp4" controls width="600"></video>
 </p>
 
 ## 💸 QR Codes for Donation
@@ -11,15 +11,15 @@ A begging video
 <table>
   <tr>
     <td align="center">
-      <img src="wise-qr.png" width="150" height="150"/><br>
+      <img src="wise-qr.png" width="200" height="200"/><br>
       <b>Wise Transfer</b>
     </td>
     <td align="center">
-      <img src="binance-qr.png" width="150" height="150"/><br>
+      <img src="binance-qr.png" width="200" height="200"/><br>
       <b>Binance</b>
     </td>
     <td align="center">
-      <img src="paypal-qr.png" width="150" height="150"/><br>
+      <img src="paypal-qr.png" width="200" height="200"/><br>
       <b>PayPal</b>
     </td>
   </tr>
@@ -37,7 +37,7 @@ Depositer(s) will be remembered forever, and recorded. Currently preparing somet
 
 ## 🐌 The Snails
 <p align="center">
-  <img src="핑핑이0.webp" width="100" height="100"/>
-  <img src="핑핑이1.webp" width="100" height="100"/>
+  <img src="핑핑이0.webp" width="300" height="300"/>
+  <img src="핑핑이1.webp" width="300" height="300"/>
 </p>
 
