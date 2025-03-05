@@ -7,7 +7,7 @@ Um, so .. not just because of that you felt somehow weirdly pity on this a bug o
   <img src="SOS.mp4" width="600" alt="Begging Video">
 </p>
 
-![Youtube: SOS - A begging video + cat family (Original)](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=hICX4cyu1eU)
+[![Youtube: SOS - A begging video + cat family (Original)](https://www.youtube.com/watch?v=hICX4cyu1eU)]
 
 
 ## 💸 QR Codes for Donation
