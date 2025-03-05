@@ -4,8 +4,20 @@ Um, so .. not just because of that you felt somehow weirdly pity on this a bug o
 
 ## 📹 Begging Video
 <p align="center">
-  <img src="SOS.mp4" width="600" alt="Begging Video">
+  <a href="https://www.youtube.com/watch?v=hICX4cyu1eU">
+    <img src="https://img.youtube.com/vi/hICX4cyu1eU/0.jpg" width="300" alt="Watch on YouTube">
+  </a>
+  <a href="https://www.youtube.com/watch?v=cEfQnN4vIfE">
+    <img src="https://img.youtube.com/vi/cEfQnN4vIfE/0.jpg" width="300" alt="Watch on YouTube">
+  </a>
+  <a href="https://www.youtube.com/watch?v=2YkjFMDjlk0">
+    <img src="https://img.youtube.com/vi/2YkjFMDjlk0/0.jpg" width="300" alt="Watch on YouTube">
+  </a>
+  <a href="https://www.youtube.com/watch?v=Cjn6bq5PEkk">
+    <img src="https://img.youtube.com/vi/Cjn6bq5PEkk/0.jpg" width="300" alt="Watch on YouTube">
+  </a>
 </p>
+
 
 [![Youtube: SOS - A begging video + cat family (Original)](https://www.youtube.com/watch?v=hICX4cyu1eU)]
 
