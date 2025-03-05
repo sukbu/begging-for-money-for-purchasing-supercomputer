@@ -4,7 +4,7 @@ Um, so .. not just because of that you felt somehow weirdly pity on this a bug o
 
 ## 📹 Begging Video
 <div align="center">
-  <video src="https://raw.githubusercontent.com/sukbu/begging-for-money-for-purchasing-supercomputer/main/SOS.mp4" autoplay muted loop controls width="600"></video>
+  <iframe width="600" height="340" src="https://www.youtube.com/embed/YourVideoID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 💸 QR Codes for Donation
