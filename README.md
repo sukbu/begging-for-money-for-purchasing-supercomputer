@@ -2,9 +2,12 @@
 A begging video
 
 ## 📹 Begging Video
-[![Watch the video](https://via.placeholder.com/300x200.png?text=Click+to+Watch)](https://github.com/sukbu/begging-for-money-for-purchasing-supercomputer/raw/main/begging-video.mp4
+<p align="center">
+  <video src="https://github.com/sukbu/begging-for-money-for-purchasing-supercomputer/raw/main/SOS.mp4" controls width="600"></video>
+</p>
 
 ## 💸 QR Codes for Donation
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -21,6 +24,8 @@ A begging video
     </td>
   </tr>
 </table>
+</p>
+
 
 Depositer(s) will be remembered forever, and recorded. Currently preparing something in progress, despite the progress is too slow like a snail (and you can see the snail at the bottomest area of this page).
 
@@ -30,4 +35,9 @@ Depositer(s) will be remembered forever, and recorded. Currently preparing somet
 (2) and um .. maybe if the depositors contribution is well enough maybe ... going to buy another necessary appliances as well as feeding my cat(s).
 (3) Due to some reason I cannot reveal all the things but gradually I want to share the things what I was/am doing with the depositors, if they are willing to, and I also understand there is possibility that depositors may not want to reveal themselves, or sometimes don't even want to know what I am doing, so then .. um .. maybe need to make a form related to PI, or .. um .. 
 
-![snail](핑핑이0.webp) ![snail](핑핑이1.webp)
+## 🐌 The Snails
+<p align="center">
+  <img src="snail1.png" width="100" height="100"/>
+  <img src="snail2.png" width="100" height="100"/>
+</p>
+
