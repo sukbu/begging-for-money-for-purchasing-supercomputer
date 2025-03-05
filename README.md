@@ -1,5 +1,6 @@
 # begging-money-for-purchasing-supercomputer
-A begging video, very silly because in the video, the man bending his knee to anyone whoever confront this video, cat family were supporting at the end of begging, and recently they got baby and the baby already grew up very fast.
+A begging video, very silly because in the video, the man bending his knee to anyone whoever confront this video, cat family were supporting at the end of begging, and recently they got baby and the baby already grew up very fast. 
+Um, so .. not just because of that you felt somehow weirdly pity on this a bug or poor person, maybe I can share the photo of baby cat I met in certain day in raining winter. (I don't even remember accurate date but photos are preserving its metadata so .. um.. maybe)
 
 ## 📹 Begging Video
 <div align="center">
