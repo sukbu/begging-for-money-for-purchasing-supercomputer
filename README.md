@@ -1,15 +1,26 @@
 # begging-for-money-for-purchasing-supercomputer
 A begging video
 
-<video controls>
-  <source src="begging-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 📹 Begging Video
+[![Watch the video](https://via.placeholder.com/300x200.png?text=Click+to+Watch)](https://github.com/sukbu/begging-for-money-for-purchasing-supercomputer/raw/main/begging-video.mp4
 
 ## 💸 QR Codes for Donation
-### Wise Transfer | Binance | PayPal
-![Wise Transfer](wise-qr.png) | ![Binance](binance-qr.png) | ![PayPal](paypal-qr.png)
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="wise-qr.png" width="150" height="150"/><br>
+      <b>Wise Transfer</b>
+    </td>
+    <td align="center">
+      <img src="binance-qr.png" width="150" height="150"/><br>
+      <b>Binance</b>
+    </td>
+    <td align="center">
+      <img src="paypal-qr.png" width="150" height="150"/><br>
+      <b>PayPal</b>
+    </td>
+  </tr>
+</table>
 
 Depositer(s) will be remembered forever, and recorded. Currently preparing something in progress, despite the progress is too slow like a snail (and you can see the snail at the bottomest area of this page).
 
@@ -19,4 +30,4 @@ Depositer(s) will be remembered forever, and recorded. Currently preparing somet
 (2) and um .. maybe if the depositors contribution is well enough maybe ... going to buy another necessary appliances as well as feeding my cat(s).
 (3) Due to some reason I cannot reveal all the things but gradually I want to share the things what I was/am doing with the depositors, if they are willing to, and I also understand there is possibility that depositors may not want to reveal themselves, or sometimes don't even want to know what I am doing, so then .. um .. maybe need to make a form related to PI, or .. um .. 
 
-![snail](핑핑이0.webp) ![snail]핑핑이1.webp)
+![snail](핑핑이0.webp) ![snail](핑핑이1.webp)
