@@ -1,5 +1,5 @@
-# begging-for-money-for-purchasing-supercomputer
-A begging video
+# begging-money-for-purchasing-supercomputer
+A begging video, very silly because in the video, the man bending his knee to anyone, and cat family were supporting this video, and recently they got baby and the baby already grew up very fast.
 
 ## 📹 Begging Video
 <div align="center">
