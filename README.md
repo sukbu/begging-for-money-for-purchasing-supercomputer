@@ -3,9 +3,8 @@ A begging video, very silly because in the video, the man bending his knee to an
 Um, so .. not just because of that you felt somehow weirdly pity on this a bug or poor person, maybe I can share the photo of baby cat I met in certain day in raining winter. (I don't even remember accurate date but photos are preserving its metadata so .. um.. maybe)
 
 ## 📹 Begging Video
-<div align="center">
-  <iframe width="600" height="340" src="https://www.youtube.com/embed/YourVideoID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
+
 
 ## 💸 QR Codes for Donation
 <p align="center">
