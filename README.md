@@ -37,7 +37,7 @@ Depositer(s) will be remembered forever, and recorded. Currently preparing somet
 
 ## 🐌 The Snails
 <p align="center">
-  <img src="snail1.png" width="100" height="100"/>
-  <img src="snail2.png" width="100" height="100"/>
+  <img src="핑핑이0.webp" width="100" height="100"/>
+  <img src="핑핑이1.webp" width="100" height="100"/>
 </p>
 
