@@ -43,7 +43,7 @@ Um, so .. not just because of that you felt somehow weirdly pity on this a bug o
 </p>
 
 
-Depositer(s) will be remembered forever, and recorded. Currently preparing something in progress, despite the progress is too slow like a snail (and you can see the snail at the bottomest area of this page).
+Depositor(s) will be remembered forever, and recorded. Currently preparing something in progress, despite the progress is too slow like a snail (and you can see the snail at the bottomest area of this page).
 
 [Reason? why?]
 (0) My workstation is too old. It served me already more than 7 years, and reached to its limitation that the tasks I'm currently doing are too heavy for this. So I want to retire this workstation, and maybe let it be in peace with lighter workload, maybe um .. it seems enterprise grade required.
