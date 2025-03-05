@@ -3,7 +3,7 @@ A begging video
 
 ## 📹 Begging Video
 <div align="center">
-  <video src="https://github.com/sukbu/begging-for-money-for-purchasing-supercomputer/raw/main/SOS.mp4" autoplay muted loop controls width="600"></video>
+  <video src="https://raw.githubusercontent.com/sukbu/begging-for-money-for-purchasing-supercomputer/main/SOS.mp4" autoplay muted loop controls width="600"></video>
 </div>
 
 ## 💸 QR Codes for Donation
